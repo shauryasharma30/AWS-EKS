@@ -13,7 +13,7 @@ nodeGroups:
         publicKeyName: mykey111
    - name: ng2
      desiredCapacity: 2
-     instanceType: t2.small
+     instanceType: t2.micro
      ssh:
         publicKeyName: mykey111
    
